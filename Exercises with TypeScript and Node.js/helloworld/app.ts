@@ -1,2 +1,2 @@
- console.log('hello worl');
+ console.log('hello world');
  
