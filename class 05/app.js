@@ -1,4 +1,4 @@
-// class 05 about comparison operators
+// class 05 start by comparison operators
 // let num1 :boolean=true
 // let num2 :boolean=false
 // console.log(num1==num2)
@@ -10,10 +10,10 @@
 // let answer = num1 != num2
 // console.log(answer)
 //logical operators
-var num1 = 9;
-var num2 = 8;
-console.log((num1 > num2) && (num2 < num1) || (10 > 6));
-// console.log((num1 < num2) || (10 == 10));
+// let num1: number = 9
+// let num2: number = 8
+// console.log((num1 > num2) && (num2 < num1) || (10 > 6));
+// // console.log((num1 < num2) || (10 == 10));
 // if else
 // let isRaining = false;
 // if (isRaining){
@@ -24,4 +24,4 @@ console.log((num1 > num2) && (num2 < num1) || (10 > 6));
 // if else basic syntax
 // if (){
 // }else {
-// }
+//}

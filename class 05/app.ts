@@ -1,4 +1,4 @@
-// class 05 about comparison operators
+// class 05 start by comparison operators
 
 // let num1 :boolean=true
 // let num2 :boolean=false
@@ -35,5 +35,4 @@
 
 // }else {
 
-// }
-
+//}
